@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'icons';
+  src:  url('../fonts/icons.eot?icj1jw');
+  src:  url('../fonts/icons.eot?icj1jw#iefix') format('embedded-opentype'),
+    url('../fonts/icons.ttf?icj1jw') format('truetype'),
+    url('../fonts/icons.woff?icj1jw') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="_icon-"]::before, [class*=" _icon-"]::before {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+._icon-vk:before {
+  content: "\e91e";
+}
+._icon-instagram:before {
+  content: "\e91f";
+}
+._icon-in:before {
+  content: "\e920";
+}
+._icon-ball:before {
+  content: "\e921";
+}
+._icon-f:before {
+  content: "\e922";
+}
+._icon-be:before {
+  content: "\e923";
+}
+._icon-facebook:before {
+  content: "\e924";
+}
+._icon-youtube:before {
+  content: "\e925";
+}
+._icon-v:before {
+  content: "\e926";
+}
