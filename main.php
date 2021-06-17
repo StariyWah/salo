@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Услуги</title>
     <link rel="stylesheet" href="css/icons.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css" />
-    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
-    <title>Работы</title>
-    
+    <link rel="stylesheet" href="css/styles.css">
 </head>
-<body >
+<body>
 <div class="work">
     <div class="work__nhidden">
     <div class="work__1 work__item">
@@ -133,13 +130,8 @@
             <img src="img/arrow-open.svg">
         </div>
     </div>
-</div>
-<script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
-<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+</div>   
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-<script src="js/slider__one.js"></script>
 <script src="js/script.js"></script>
 </body>
 </html>
-
