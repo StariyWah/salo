@@ -15,7 +15,7 @@
 <div class="work">
     <div class="work__nhidden">
         <div class="work__1 work__item">
-        <img src=" href="img/rect-1.jpg" style="
+        <img src="img/rect-1.jpg" style="
     object-fit: inherit;
 ">
 		<a href="" class="work-link"></a>
@@ -25,7 +25,7 @@
                 </div>
         </div>
                                             <div class="work__2 work__item">
-        <img src=" href="img/rect-2.jpg" style="
+        <img src="img/rect-2.jpg" style="
     object-fit: inherit;
 ">
 		<a href="" class="work-link"></a>
@@ -35,7 +35,7 @@
                 </div>
         </div>
         <div class="work__3 work__item">
-        <img src=" href="img/rect-3.jpg" style="
+        <img src="img/rect-3.jpg" style="
     object-fit: inherit;
 ">
 		<a href="" class="work-link"></a>
@@ -45,7 +45,7 @@
                 </div>
         </div>
                                             <div class="work__4 work__item">
-        <img src=" href="img/rect-4.jpg" style="
+        <img src="img/rect-4.jpg" style="
     object-fit: inherit;
 ">
 		<a href="" class="work-link"></a>
@@ -55,7 +55,7 @@
                 </div>
         </div>
         <div class="work__5 work__item">
-        <img src=" href="img/rect-5.jpg" style="
+        <img src="img/rect-5.jpg" style="
     object-fit: inherit;
 ">
 		<a href="" class="work-link"></a>
@@ -65,7 +65,7 @@
                 </div>
         </div>
                                             <div class="work__6 work__item">
-        <img src=" href="img/rect-6.jpg" style="
+        <img src="img/rect-6.jpg" style="
     object-fit: inherit;
 ">
 		<a href="" class="work-link"></a>
@@ -75,7 +75,7 @@
                 </div>
         </div>
         <div class="work__7 work__item">
-        <img src=" href="img/rect-7.jpg" style="
+        <img src="img/rect-7.jpg" style="
     object-fit: inherit;
 ">
 		<a href="" class="work-link"></a>
@@ -85,7 +85,7 @@
                 </div>
         </div>
                                             <div class="work__8 work__item">
-        <img src=" href="img/rect-8.jpg" style="
+        <img src="img/rect-8.jpg" style="
     object-fit: inherit;
 ">
 		<a href="" class="work-link"></a>
@@ -95,7 +95,7 @@
                 </div>
         </div>
         <div class="work__9 work__item">
-        <img src=" href="img/rect-9.jpg" style="
+        <img src="img/rect-9.jpg" style="
     object-fit: inherit;
 ">
 		<a href="" class="work-link"></a>
@@ -105,7 +105,7 @@
                 </div>
         </div>
                                             <div class="work__10 work__item">
-        <img src=" href="img/rect-10.jpg" style="
+        <img src="img/rect-10.jpg" style="
     object-fit: inherit;
 ">
 		<a href="" class="work-link"></a>
@@ -115,7 +115,7 @@
                 </div>
         </div>
         <div class="work__11 work__item">
-        <img src=" href="img/rect-11.jpg" style="
+        <img src="img/rect-11.jpg" style="
     object-fit: inherit;
 ">
 		<a href="" class="work-link"></a>
@@ -125,7 +125,7 @@
                 </div>
         </div>
                                             <div class="work__12 work__item">
-        <img src=" href="img/rect-12.jpg" style="
+        <img src="img/rect-12.jpg" style="
     object-fit: inherit;
 ">
 		<a href="" class="work-link"></a>
